@@ -1,3 +1,5 @@
+# Rubyのprint系メソッド
+
 # 完全記述のprint(printメソッド)
 # printメソッドの特徴は改行を入れずに引数に指定した値を出力すること。
 print "Hello, world!\n"
