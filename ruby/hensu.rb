@@ -11,7 +11,7 @@ mydream_print # 関数実行
 
 # ★インスタンス変数 変数の先頭に@マークをつける
 class WhoAmI
-    def set_name (str)
+    def set_name(str)
         @name = str #インスタンス変数@nameをここで宣言
     end
 
