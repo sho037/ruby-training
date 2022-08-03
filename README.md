@@ -5,7 +5,7 @@
 プログラムを実行する際は Ruby をインストールしておいてください<br>
 https://www.ruby-lang.org/ja/downloads/<br>
 ↑ここからダウンロードした各OSのインストーラーを実行してください<br>
-詳しくはhttps://prog-8.com/docs/ruby-env-win　（Windows）<br>
+詳しくは（Windows）　https://prog-8.com/docs/ruby-env-win <br>
 コマンドプロンプト、または任意のシェルで ruby -v と入力し、<br>
 バージョン情報が表示されればOKです。<br>
 
