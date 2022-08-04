@@ -9,6 +9,7 @@ end
 
 mydream_print # 関数実行
 
+
 # ★インスタンス変数 変数の先頭に@マークをつける
 class WhoAmI
     def set_name(str)
@@ -23,6 +24,7 @@ end
 whoami = WhoAmI.new #インスタンスを生成
 whoami.set_name("sho") #インスタンスに対して各メソッドを実行
 whoami.put_name #printメソッド(puts)を実行
+
 
 # ★ローカル変数 変数の先頭に何もつけない
 class WhoAmI2 #同一メソッド内でローカル変数を宣言し、使用
