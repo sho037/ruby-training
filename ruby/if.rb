@@ -26,3 +26,13 @@ end
 if (how == 1000) || (how != 1000)
     puts "howは正直なんでもいい"
 end
+
+# 値がヒットした場合に出力されるが、elsifでほかの条件をつけたすことができる
+where = "oosaka"
+if where == "hyougo"
+    puts "兵庫県"
+elsif where == "oosaka"
+    puts "大阪府"
+else
+    puts "どこやねん"
+end
